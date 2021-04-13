@@ -3,23 +3,26 @@
 **Team Members**
 |   Enrollment No.  |   Name   | GithubId |
 |   --------------  |   ----   | -------- |
-|    IIT2019001  |   xyz | merazlab |
-|    IIT2019002  |   lmn | mohan | 
-|    IIT2019003  |   pqr | ram  |
+|    IIT2019225  |   Kishan Tripathi | GhostFoxSledgehammer |
+|    IIT2019226  |   Mukul Mohmare | Mu-C00L | 
+|    IIT2019227  |   Anshuman Bhradwaj | anshumanbhardwaj1370  |
 
-**Group No-**"-------"
+**Group No-**"14"
 
-**Faculty Name-**"-----------------"
+**Faculty Name-**"Dr. Rahul Kala"
 
 **Mentor Name-** "Md. Meraz"
 
 ---
 ## Problem Statement
-Curve fitting using Least squares Approximation
+Given a string, print the longest repeating subsequence such that the two
+subsequences don’t have same string character at same position, i.e., any
+j’th character in the two subsequences shouldn’t have the same location
+index in the given original string. Solve using dynamic programming.
 
 ---
 ## How to use code
-A quick and simplified answer is that Lorem Ipsum refers to text that the DTP (Desktop Publishing) industry use as replacement text when the real text is not available. ... Lorem Ipsum is dummy text which has no meaning however looks very similar to real text.
+
 ```
 #Download project
 git clone https://github.com/merazlab/daa 
@@ -73,7 +76,7 @@ Out:
 ---
 
 ### Theory
-A quick and simplified answer is that Lorem Ipsum refers to text that the DTP (Desktop Publishing) industry use as replacement text when the real text is not available. ... Lorem Ipsum is dummy text which has no meaning however looks very similar to real text.
+
 
 ---
 
@@ -81,11 +84,11 @@ A quick and simplified answer is that Lorem Ipsum refers to text that the DTP (D
 
 **Time Complexity**
 
-A quick and simplified answer is that Lorem Ipsum refers to text that the DTP (Desktop Publishing) industry use as replacement text when the real text is not available. Lorem Ipsum is dummy text which has no meaning however looks very similar to real text.
+
 
 **Space Complexity**
 
-A quick and simplified answer is that Lorem Ipsum refers to text that the DTP (Desktop Publishing) industry use as replacement text when the real text is not available. ... Lorem Ipsum is dummy text which has no meaning however looks very similar to real text.
+
 
 ---
 
