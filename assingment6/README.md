@@ -86,7 +86,8 @@ Space Complexity – O(n * w)
 ---
 ### References
 ```
-https://www.geeksforgeeks.org/longest-repeated-subsequence/
-https://www.techiedelight.com/longest-repeated-subsequence-problem/
-https://www.geeksforgeeks.org/longest-repeating-subsequence/
+https://www.geeksforgeeks.org/0-1-knapsack-problem-dp
+https://www.geeksforgeeks.org/space-optimized-dp-solution-?ref=rp
+https://www.educative.io/blog/0-1-knapsack-problem-dynamic-https://www.educative.io/courses/
+grokking-dynamic-programming-patterns-for-coding-interviews/RM1BDv71V60
 ```
