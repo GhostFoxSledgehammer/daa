@@ -1,21 +1,17 @@
 #include <bits/stdc++.h>
 using namespace std;
  
-// A utility function that returns
-// maximum of two integers
+
 int max(int a, int b)
 {
     return (a > b) ? a : b;
 }
- 
-// Returns the maximum value that
-// can be put in a knapsack of capacity W
+
 int knapSack(int W, int wt[], int val[], int n)
 {
     int i, w;
     int K[n + 1][W + 1];
  
-    // Build table K[][] in bottom up manner
     for(i = 0; i <= n; i++)
     {
         for(w = 0; w <= W; w++)
@@ -33,7 +29,7 @@ int knapSack(int W, int wt[], int val[], int n)
     return K[n][W];
 }
  
-// Driver Code
+
 int main()
 {
 int n,W;
