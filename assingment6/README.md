@@ -80,7 +80,7 @@ only possibility
 ```
 Time Complexity – O(n * w)
 
-Space Complexity – O(w)
+Space Complexity – O(n * w)
 ```
 
 ---
